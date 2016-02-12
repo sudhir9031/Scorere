@@ -1,4 +1,5 @@
 //deployed
+//deployed by the comment
 public class Test2 {
 	
 	String name;
